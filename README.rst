@@ -1,3 +1,5 @@
+* Since pyitlib is not in maintained and can not install properly, I have forked it and made it a submodule to put in my project.
+
 pyitlib is an MIT-licensed library of information-theoretic methods for data analysis and machine learning, implemented in Python and NumPy.
 
 API documentation is available online at https://pafoster.github.io/pyitlib/.

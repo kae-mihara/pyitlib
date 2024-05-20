@@ -1,5 +1,0 @@
-future
-numpy
-pandas
-scikit-learn
-scipy
